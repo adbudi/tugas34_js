@@ -1,4 +1,4 @@
 # tugas34_js# 
 getelementbytagname
 
-![tugas34](tgs34.png)
+![tugas34](tgs33.png)
